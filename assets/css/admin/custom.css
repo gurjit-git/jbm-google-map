@@ -1,0 +1,20 @@
+.jbm-group-class {
+	padding: 5px 0 !important;
+	margin: 0 !important;
+}
+.cmb-th {
+	padding: 0 !important;
+}
+.cmb-row.cmb-remove-field-row {
+	padding: 5px 0 0 0 !important;
+}
+.cmb-add-row {
+	margin-top: 0px !important;
+}
+.jbm-group-class textarea {
+	width: 100% !important;
+	height: 50px;
+}
+.cmb2-media-status {
+	display: inline-table;
+}

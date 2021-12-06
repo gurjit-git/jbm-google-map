@@ -1,0 +1,35 @@
+#storemapper .storemapper-iw-layout .storemapper-iw-content-shadow {
+background-color: rgba(0, 0, 0, 0.2);
+border-radius: 2px;
+box-shadow: rgba(0, 0, 0, 0.298039) 0px 1px 4px -1px;
+border:4px solid #000 !important
+}
+.gm-style-iw div {
+	line-height: 20px;
+	color: #000;
+	font-weight: 400;
+	letter-spacing: 0.4px;
+	max-width: 100% !important;
+}
+
+.gm-style-iw h5{
+margin: 5px 0 !important
+}
+button.gm-ui-hover-effect {
+	opacity: 1 !important;
+	/* z-index: 99999999999999 !important; */
+	background: #cacaca !important;
+	right: -10px !important;
+	top: -10px !important;
+	border-radius: 100px;
+	width: 26px !important;
+	height: 26px !important;
+	margin: 1px !important;
+	color:#fff !important
+}
+button.gm-ui-hover-effect img {
+	max-width: none;
+	width: 17px !important;
+	height: 17px !important;
+	margin: 5px !important;
+}
